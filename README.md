@@ -119,8 +119,4 @@ PCB defect detection (YOLO + SAM) and automated veterinary VHS measurement from 
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aloys-Aymrick-Nzooh&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aloys-Aymrick-Nzooh&layout=compact&hide_border=true" height="150"/>
-</p>
 
